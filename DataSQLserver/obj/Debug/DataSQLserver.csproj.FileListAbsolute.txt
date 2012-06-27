@@ -1,0 +1,18 @@
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\DataSQLserver\bin\Debug\DataSQLserver.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\DataSQLserver\bin\Debug\DataSQLserver.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\DataSQLserver\obj\Debug\ResolveAssemblyReference.cache
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\DataSQLserver\obj\Debug\DataSQLserver.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\DataSQLserver\obj\Debug\DataSQLserver.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\DataSQLserver\bin\Debug\DataSQLserver.dll.config
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\DataSQLserver\bin\Debug\DataSQLserver.dll.config
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\DataSQLserver\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\DataSQLserver\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\DataSQLserver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\DataSQLserver\obj\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\DataSQLserver\obj\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\DataSQLserver\bin\Debug\DataSQLserver.dll.config
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\DataSQLserver\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\DataSQLserver\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\DataSQLserver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\DataSQLserver\obj\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\DataSQLserver\obj\Debug\DataSQLserver.pdb

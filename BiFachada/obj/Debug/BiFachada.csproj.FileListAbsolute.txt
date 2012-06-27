@@ -1,0 +1,33 @@
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\bin\Debug\BiFachada.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\bin\Debug\BiFachada.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\bin\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\bin\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\obj\Debug\BiFachada.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiFachada\obj\Debug\BiFachada.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\bin\Debug\BiFachada.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\bin\Debug\BiFachada.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\bin\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\bin\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\obj\Debug\BiFachada.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiFachada\obj\Debug\BiFachada.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\bin\Debug\BiFachada.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\bin\Debug\BiFachada.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\bin\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\bin\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\obj\Debug\BiFachada.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiFachada\obj\Debug\BiFachada.pdb

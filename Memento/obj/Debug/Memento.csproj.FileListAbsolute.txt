@@ -1,0 +1,21 @@
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Memento\bin\Debug\Memento.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Memento\bin\Debug\Memento.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Memento\obj\Debug\ResolveAssemblyReference.cache
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Memento\obj\Debug\Memento.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Memento\obj\Debug\Memento.pdb
+C:\Users\NeRaCs\Documents\Visual Studio 2010\Projects\App_Supervisor\Memento\bin\Debug\Entidades.dll
+C:\Users\NeRaCs\Documents\Visual Studio 2010\Projects\App_Supervisor\Memento\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Memento\bin\Debug\Memento.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Memento\bin\Debug\Memento.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Memento\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Memento\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Memento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Memento\obj\Debug\Memento.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Memento\obj\Debug\Memento.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Memento\bin\Debug\Memento.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Memento\bin\Debug\Memento.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Memento\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Memento\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Memento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Memento\obj\Debug\Memento.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Memento\obj\Debug\Memento.pdb

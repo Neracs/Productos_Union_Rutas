@@ -1,0 +1,85 @@
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\bin\App_Supervisor.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\bin\App_Supervisor.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\obj\Debug\App_Supervisor.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\obj\Debug\App_Supervisor.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\bin\Entidades.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\bin\Procesos_Entidades.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\bin\DataSQLserver.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\bin\Entidades.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\bin\Procesos_Entidades.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\App_Supervisor\bin\DataSQLserver.pdb
+C:\Users\NeRaCs\Documents\Visual Studio 2010\Projects\App_Supervisor\App_Supervisor\bin\Memento.dll
+C:\Users\NeRaCs\Documents\Visual Studio 2010\Projects\App_Supervisor\App_Supervisor\bin\Memento.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\App_Supervisor.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\App_Supervisor.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\Entidades.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\Memento.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\DataSQLserver.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\Entidades.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\Memento.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\DataSQLserver.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\obj\Debug\App_Supervisor.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\obj\Debug\App_Supervisor.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\BiFachada.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\BiFachada.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\BiState.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\App_Supervisor\bin\BiState.pdb
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\App_Supervisor.dll
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\App_Supervisor.pdb
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\BiFachada.dll
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\BiState.dll
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\Entidades.dll
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\Memento.dll
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\Procesos_Entidades.dll
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\DataSQLserver.dll
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\BiFachada.pdb
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\BiState.pdb
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\Entidades.pdb
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\Memento.pdb
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\Procesos_Entidades.pdb
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\bin\DataSQLserver.pdb
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\obj\Debug\App_Supervisor.dll
+C:\Users\NeRaCs\Desktop\Proyecto_ProductosUnion\App_Supervisor_9_19\App_Supervisor\obj\Debug\App_Supervisor.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\App_Supervisor.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\App_Supervisor.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\BiFachada.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\BiProxy.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\BiState.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\Memento.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\BiFachada.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\BiProxy.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\BiState.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\Memento.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\bin\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\obj\Debug\App_Supervisor.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\App_Supervisor\obj\Debug\App_Supervisor.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\obj\Debug\App_Supervisor.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\App_Supervisor.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\App_Supervisor.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\BiFachada.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\BiProxy.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\BiState.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\Memento.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\BiFachada.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\BiProxy.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\BiState.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\Memento.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\bin\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\App_Supervisor\obj\Debug\App_Supervisor.pdb

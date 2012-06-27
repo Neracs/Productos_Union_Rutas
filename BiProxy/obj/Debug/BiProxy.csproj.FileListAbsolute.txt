@@ -1,0 +1,34 @@
+C:\Users\Brian\Desktop\App_Supervisor_9_19\BiProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\bin\Debug\BiProxy.dll
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\bin\Debug\BiProxy.pdb
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\bin\Debug\Procesos_Entidades.dll
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\bin\Debug\DataSQLserver.dll
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\bin\Debug\Entidades.dll
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\bin\Debug\Procesos_Entidades.pdb
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\bin\Debug\DataSQLserver.pdb
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\bin\Debug\Entidades.pdb
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\obj\Debug\BiProxy.dll
+C:\Users\KDX-SNK-SML\Desktop\App_Supervisor\BiProxy\obj\Debug\BiProxy.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\bin\Debug\BiProxy.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\bin\Debug\BiProxy.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\bin\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\bin\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\obj\Debug\BiProxy.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiProxy\obj\Debug\BiProxy.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\bin\Debug\BiProxy.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\bin\Debug\BiProxy.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\bin\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\bin\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\obj\Debug\BiProxy.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiProxy\obj\Debug\BiProxy.pdb

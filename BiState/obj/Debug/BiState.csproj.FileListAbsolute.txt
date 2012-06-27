@@ -1,0 +1,15 @@
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiState\bin\Debug\BiState.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiState\bin\Debug\BiState.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiState\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiState\obj\Debug\BiState.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\BiState\obj\Debug\BiState.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiState\bin\Debug\BiState.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiState\bin\Debug\BiState.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiState\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiState\obj\Debug\BiState.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\BiState\obj\Debug\BiState.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiState\bin\Debug\BiState.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiState\bin\Debug\BiState.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiState\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiState\obj\Debug\BiState.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\BiState\obj\Debug\BiState.pdb

@@ -1,0 +1,36 @@
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\bin\Debug\Procesos_Entidades.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\bin\Debug\Procesos_Entidades.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\bin\Debug\DataSQLserver.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\bin\Debug\Entidades.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\bin\Debug\DataSQLserver.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\bin\Debug\Entidades.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\obj\Debug\ResolveAssemblyReference.cache
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\obj\Debug\Procesos_Entidades.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Procesos_Entidades\obj\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\bin\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\bin\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\obj\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\App_Supervisor - copia\Procesos_Entidades\obj\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\bin\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\bin\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\obj\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Procesos_Entidades\obj\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\obj\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\bin\Debug\Procesos_Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\bin\Debug\Procesos_Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\bin\Debug\DataSQLserver.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\bin\Debug\DataSQLserver.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Procesos_Entidades\obj\Debug\Procesos_Entidades.pdb

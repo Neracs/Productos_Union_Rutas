@@ -1,0 +1,15 @@
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Entidades\bin\Debug\Entidades.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Entidades\bin\Debug\Entidades.pdb
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Entidades\obj\Debug\ResolveAssemblyReference.cache
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Entidades\obj\Debug\Entidades.dll
+c:\users\neracs\documents\visual studio 2010\Projects\App_Supervisor\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Entidades\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Entidades\obj\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Entidades\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Entidades\obj\Debug\Entidades.dll
+C:\Users\Brian\Desktop\Proyecto_PU_ArqSOFT\App_Supervisor Prueba Proto\Entidades\obj\Debug\Entidades.pdb
